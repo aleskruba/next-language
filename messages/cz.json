@@ -1,0 +1,11 @@
+{
+    "HomePage": {
+      "title": "Ahoj svet!",
+      "about": "havni strana"
+    },
+    "AboutPage": {
+        "title": "Ahoj about!",
+        "about": "About strana"
+      }
+
+  }
